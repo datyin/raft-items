@@ -1,0 +1,1602 @@
+[
+  {
+    "UniqueName": "Backpack",
+    "DisplayName": "Backpack",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/b/b1/Backpack.png"
+  },
+  {
+    "UniqueName": "CaptainsHat",
+    "DisplayName": "Captain's Hat",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/1/1e/Captains_Hat.png"
+  },
+  {
+    "UniqueName": "DevHat",
+    "DisplayName": "Developer Hat",
+    "DisplayPicture": ""
+  },
+  {
+    "UniqueName": "Equipment_LeatherChest",
+    "DisplayName": "Leather Body Armor",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/9/98/Leather_Body_Armor.png"
+  },
+  {
+    "UniqueName": "Equipment_LeatherHelmet",
+    "DisplayName": "Leather Helmet",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/6/6e/Leather_Helmet.png"
+  },
+  {
+    "UniqueName": "Equipment_LeatherLegs",
+    "DisplayName": "Leather Greaves",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/7/72/Leather_Greaves.png"
+  },
+  {
+    "UniqueName": "Flipper",
+    "DisplayName": "Flippers",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/1/14/Flippers.png"
+  },
+  {
+    "UniqueName": "HeadLight",
+    "DisplayName": "Head Light",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/1/19/HeadLight.png"
+  },
+  {
+    "UniqueName": "MayorHat",
+    "DisplayName": "Mayor Hat",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/9/9f/Mayor_Hat.png"
+  },
+  {
+    "UniqueName": "OxygenBottle",
+    "DisplayName": "Oxygen Bottle",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/d/db/Oxygen_Bottle.png"
+  },
+  {
+    "UniqueName": "PilotHelmet",
+    "DisplayName": "Pilot Helmet",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/6/6e/Pilot_Helmet.png"
+  },
+  {
+    "UniqueName": "TikiMask",
+    "DisplayName": "Tiki Mask",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/5/52/Tiki_Mask.png"
+  },
+  {
+    "UniqueName": "Banana",
+    "DisplayName": "Banana",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/6/69/Banana.png"
+  },
+  {
+    "UniqueName": "Berries_Red",
+    "DisplayName": "Red Berries",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/1/17/Red_Berries.png"
+  },
+  {
+    "UniqueName": "Bucket_Milk",
+    "DisplayName": "Bucket of Milk",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/6/69/Bucket_of_Milk.png"
+  },
+  {
+    "UniqueName": "CaveMushroom",
+    "DisplayName": "Cave Mushroom",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/8/8b/Cave_Mushroom.png"
+  },
+  {
+    "UniqueName": "Claybowl_CoconutChicken",
+    "DisplayName": "Coconut Chicken",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/c/c1/Coconut_Chicken.png"
+  },
+  {
+    "UniqueName": "Claybowl_Empty",
+    "DisplayName": "Clay Bowl",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/5/53/Clay_Bowl.png"
+  },
+  {
+    "UniqueName": "Claybowl_FishStew",
+    "DisplayName": "Fish Stew",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/6/6f/Fish_Stew.png"
+  },
+  {
+    "UniqueName": "Claybowl_HeadBroth",
+    "DisplayName": "Head Broth",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/6/6c/Head_Broth.png"
+  },
+  {
+    "UniqueName": "Claybowl_Leftover",
+    "DisplayName": "Leftovers",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/7/7f/Leftovers.png"
+  },
+  {
+    "UniqueName": "Claybowl_SimpleFishStew",
+    "DisplayName": "Simple Fish Stew",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/1/19/Simple_Fish_Stew.png"
+  },
+  {
+    "UniqueName": "Claybowl_RootVegetableSoup",
+    "DisplayName": "Vegetable Soup",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/1/19/Simple_Fish_Stew.png"
+  },
+  {
+    "UniqueName": "ClayPlate_CatfishDeluxe",
+    "DisplayName": "Catfish Deluxe",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/f/fc/Catfish_Deluxe.png"
+  },
+  {
+    "UniqueName": "ClayPlate_DrumstickWithJam",
+    "DisplayName": "Drumstick with Jam",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/7/7a/Drumstick_with_Jam.png"
+  },
+  {
+    "UniqueName": "ClayPlate_FruitCompot",
+    "DisplayName": "Fruit Compot",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/f/f8/Fruit_Compot.png"
+  },
+  {
+    "UniqueName": "ClayPlate_MushroomOmelette",
+    "DisplayName": "Mushroom Omelette",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/b/b7/Mushroom_Omelette.png"
+  },
+  {
+    "UniqueName": "ClayPlate_SalmonSalad",
+    "DisplayName": "Salmon Salad",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/7/77/Salmon_Salad.png"
+  },
+  {
+    "UniqueName": "ClayPlate_SharkDinner",
+    "DisplayName": "Shark Dinner",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/c/c5/Shark_Dinner.png"
+  },
+  {
+    "UniqueName": "Coconut",
+    "DisplayName": "Coconut",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/2/2f/Coconut.png"
+  },
+  {
+    "UniqueName": "Cooked_Beet",
+    "DisplayName": "Cooked Beet",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/2/2c/Cooked_Beet.png"
+  },
+  {
+    "UniqueName": "Cooked_Catfish",
+    "DisplayName": "Cooked Catfish",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/d/d3/Cooked_Catfish.png"
+  },
+  {
+    "UniqueName": "Cooked_Drumstick",
+    "DisplayName": "Cooked Drumstick",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/0/0f/Cooked_Drumstick.png"
+  },
+  {
+    "UniqueName": "Cooked_GenericMeat",
+    "DisplayName": "Cooked Meat",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/c/cd/Cooked_Meat.png"
+  },
+  {
+    "UniqueName": "Cooked_Herring",
+    "DisplayName": "Cooked Herring",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/5/5d/Cooked_Herring.png"
+  },
+  {
+    "UniqueName": "Cooked_Mackerel",
+    "DisplayName": "Cooked Mackerel",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/5/52/Cooked_Mackerel.png"
+  },
+  {
+    "UniqueName": "Cooked_Pomfret",
+    "DisplayName": "Cooked Pomfret",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/6/63/Cooked_Pomfret.png"
+  },
+  {
+    "UniqueName": "Cooked_Potato",
+    "DisplayName": "Cooked Potato",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/c/c2/Cooked_Potato.png"
+  },
+  {
+    "UniqueName": "Cooked_Salmon",
+    "DisplayName": "Cooked Salmon",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/6/69/Cooked_Salmon.png"
+  },
+  {
+    "UniqueName": "Cooked_Shark",
+    "DisplayName": "Cooked Shark Meat",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/a/ab/Cooked_Shark_Meat.png"
+  },
+  {
+    "UniqueName": "Cooked_Tilapia",
+    "DisplayName": "Cooked Tilapia",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/1/1d/Cooked_Tilapia.png"
+  },
+  {
+    "UniqueName": "Egg",
+    "DisplayName": "Egg",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/2/26/Egg.png"
+  },
+  {
+    "UniqueName": "HoneyComb",
+    "DisplayName": "Honeycomb",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/7/7c/Honeycomb.png"
+  },
+  {
+    "UniqueName": "Jar_Honey",
+    "DisplayName": "Honey",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/c/c6/Honey.png"
+  },
+  {
+    "UniqueName": "Mango",
+    "DisplayName": "Mango",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/3/38/Mango.png"
+  },
+  {
+    "UniqueName": "Pineapple",
+    "DisplayName": "Pineapple",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/f/fb/Pineapple.png"
+  },
+  {
+    "UniqueName": "PlasticBottle_Empty",
+    "DisplayName": "Empty Bottle",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/e/e4/Empty_Bottle.png"
+  },
+  {
+    "UniqueName": "PlasticBottle_SaltWater",
+    "DisplayName": "Bottle of Saltwater",
+    "DisplayPicture": ""
+  },
+  {
+    "UniqueName": "PlasticBottle_Water",
+    "DisplayName": "Bottle of Fresh Water",
+    "DisplayPicture": ""
+  },
+  {
+    "UniqueName": "PlasticCup_Empty",
+    "DisplayName": "Empty Cup",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/3/3a/Empty_Cup.png"
+  },
+  {
+    "UniqueName": "PlasticCup_SaltWater",
+    "DisplayName": "Cup of Saltwater",
+    "DisplayPicture": ""
+  },
+  {
+    "UniqueName": "PlasticCup_Water",
+    "DisplayName": "Cup of Fresh Water",
+    "DisplayPicture": ""
+  },
+  {
+    "UniqueName": "Raw_Beet",
+    "DisplayName": "Raw Beet",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/7/79/Raw_Beet.png"
+  },
+  {
+    "UniqueName": "Raw_Catfish",
+    "DisplayName": "Raw Catfish",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/6/6c/Raw_Catfish.png"
+  },
+  {
+    "UniqueName": "Raw_Drumstick",
+    "DisplayName": "Raw Drumstick",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/0/09/Raw_Drumstick.png"
+  },
+  {
+    "UniqueName": "Raw_GenericMeat",
+    "DisplayName": "Raw Meat",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/e/e9/Raw_Meat.png"
+  },
+  {
+    "UniqueName": "Raw_Herring",
+    "DisplayName": "Raw Herring",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/8/8a/Raw_Herring.png"
+  },
+  {
+    "UniqueName": "Raw_Mackerel",
+    "DisplayName": "Raw Mackerel",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/3/34/Raw_Mackerel.png"
+  },
+  {
+    "UniqueName": "Raw_Pomfret",
+    "DisplayName": "Raw Pomfret",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/8/84/Raw_Pomfret.png"
+  },
+  {
+    "UniqueName": "Raw_Potato",
+    "DisplayName": "Raw Potato",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/b/b0/Raw_Potato.png"
+  },
+  {
+    "UniqueName": "Raw_Salmon",
+    "DisplayName": "Raw Salmon",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/4/40/Raw_Salmon.png"
+  },
+  {
+    "UniqueName": "Raw_Shark",
+    "DisplayName": "Raw Shark Meat",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/0/0c/Raw_Shark_Meat.png"
+  },
+  {
+    "UniqueName": "Raw_Tilapia",
+    "DisplayName": "Raw Tilapia",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/a/a7/Raw_Tilapia.png"
+  },
+  {
+    "UniqueName": "SilverAlgae",
+    "DisplayName": "Silver Algae",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/d/d4/Silver_Algae.png"
+  },
+  {
+    "UniqueName": "Strawberry",
+    "DisplayName": "Strawberry",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/6/6d/Strawberry.png"
+  },
+  {
+    "UniqueName": "Watermelon",
+    "DisplayName": "Watermelon",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/0/06/Watermelon.png"
+  },
+  {
+    "UniqueName": "Battery",
+    "DisplayName": "Battery",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/6/6d/Battery.png"
+  },
+  {
+    "UniqueName": "BioFuel",
+    "DisplayName": "Biofuel",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/a/a3/Biofuel.png"
+  },
+  {
+    "UniqueName": "Bolt",
+    "DisplayName": "Bolt",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/8/8e/Bolt.png"
+  },
+  {
+    "UniqueName": "Brick_Dry",
+    "DisplayName": "Dry Brick",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/b/ba/Dry_Brick.png"
+  },
+  {
+    "UniqueName": "CircuitBoard",
+    "DisplayName": "Circuit Board",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/a/a7/Circuit_Board.png"
+  },
+  {
+    "UniqueName": "Clay",
+    "DisplayName": "Clay",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/a/a2/Clay.png"
+  },
+  {
+    "UniqueName": "Color_Black",
+    "DisplayName": "Black Color",
+    "DisplayPicture": ""
+  },
+  {
+    "UniqueName": "Color_Blue",
+    "DisplayName": "Blue Color",
+    "DisplayPicture": ""
+  },
+  {
+    "UniqueName": "Color_Red",
+    "DisplayName": "Red Color",
+    "DisplayPicture": ""
+  },
+  {
+    "UniqueName": "Color_White",
+    "DisplayName": "White Color",
+    "DisplayPicture": ""
+  },
+  {
+    "UniqueName": "Color_Yellow",
+    "DisplayName": "Yellow Color",
+    "DisplayPicture": ""
+  },
+  {
+    "UniqueName": "CopperIngot",
+    "DisplayName": "Copper Ingot",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/0/00/Copper_Ingot.png"
+  },
+  {
+    "UniqueName": "CopperOre",
+    "DisplayName": "Copper",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/1/12/Copper.png"
+  },
+  {
+    "UniqueName": "Dirt",
+    "DisplayName": "Dirt",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/2/2f/Dirt.png"
+  },
+  {
+    "UniqueName": "ExplosiveGoo",
+    "DisplayName": "Explosive Goo",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/5/5d/Explosive_Goo.png"
+  },
+  {
+    "UniqueName": "ExplosivePowder",
+    "DisplayName": "Explosive Powder",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/f/f3/Explosive_Powder.png"
+  },
+  {
+    "UniqueName": "Feather",
+    "DisplayName": "Feather",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/3/33/Feather.png"
+  },
+  {
+    "UniqueName": "Flower_Black",
+    "DisplayName": "Black Flower",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/8/81/Black_Flower.png"
+  },
+  {
+    "UniqueName": "Flower_Blue",
+    "DisplayName": "Blue Flower",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/9/9d/Blue_Flower.png"
+  },
+  {
+    "UniqueName": "Flower_Red",
+    "DisplayName": "Red Flower",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/3/31/Red_Flower.png"
+  },
+  {
+    "UniqueName": "Flower_White",
+    "DisplayName": "White Flower",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/b/bd/White_Flower.png"
+  },
+  {
+    "UniqueName": "Flower_Yellow",
+    "DisplayName": "Yellow Flower",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/6/6f/Yellow_Flower.png"
+  },
+  {
+    "UniqueName": "Glass",
+    "DisplayName": "Glass",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/1/15/Glass.png"
+  },
+  {
+    "UniqueName": "Head_Bear",
+    "DisplayName": "Bear Head",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/d/d8/Bear_Head.png"
+  },
+  {
+    "UniqueName": "Head_Boar",
+    "DisplayName": "Warthog Head",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/4/40/Warthog_Head.png"
+  },
+  {
+    "UniqueName": "Head_MamaBear",
+    "DisplayName": "Mama Bear Head",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/9/9c/Mama_Bear_Head.png"
+  },
+  {
+    "UniqueName": "Head_PoisonPuffer",
+    "DisplayName": "Poison-Puffer Head",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/d/db/Poison-Puffer_Head.png"
+  },
+  {
+    "UniqueName": "Head_Screecher",
+    "DisplayName": "Screecher Head",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/6/6e/Screecher_Head.png"
+  },
+  {
+    "UniqueName": "Head_Screecher_Caravan",
+    "DisplayName": "White Screecher Head",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/f/f8/White_Screecher_Head.png"
+  },
+  {
+    "UniqueName": "Head_Shark",
+    "DisplayName": "Shark Head",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/0/06/Shark_Head.png"
+  },
+  {
+    "UniqueName": "Hinge",
+    "DisplayName": "Hinge",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/d/db/Hinge.png"
+  },
+  {
+    "UniqueName": "Jar_Bee",
+    "DisplayName": "Bee Jar",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/4/40/Bee_Jar.png"
+  },
+  {
+    "UniqueName": "Leather",
+    "DisplayName": "Leather",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/3/3d/Leather.png"
+  },
+  {
+    "UniqueName": "MetalIngot",
+    "DisplayName": "Metal Ingot",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/3/37/Metal_Ingot.png"
+  },
+  {
+    "UniqueName": "MetalOre",
+    "DisplayName": "Metal Ore",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/6/62/Metal_Ore.png"
+  },
+  {
+    "UniqueName": "Nail",
+    "DisplayName": "Nail",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/4/40/Nail.png"
+  },
+  {
+    "UniqueName": "Plank",
+    "DisplayName": "Plank",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/0/0d/Plank.png"
+  },
+  {
+    "UniqueName": "Plastic",
+    "DisplayName": "Plastic",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/0/0b/Plastic.png"
+  },
+  {
+    "UniqueName": "Rope",
+    "DisplayName": "Rope",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/b/b4/Rope.png"
+  },
+  {
+    "UniqueName": "Sand",
+    "DisplayName": "Sand",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/a/a7/Sand.png"
+  },
+  {
+    "UniqueName": "Scrap",
+    "DisplayName": "Scrap",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/b/b8/Scrap.png"
+  },
+  {
+    "UniqueName": "SeaVine",
+    "DisplayName": "Seaweed",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/1/13/Seaweed.png"
+  },
+  {
+    "UniqueName": "Stone",
+    "DisplayName": "Stone",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/d/d4/Stone.png"
+  },
+  {
+    "UniqueName": "Thatch",
+    "DisplayName": "Palm Leaf",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/a/a6/Palm_Leaf.png"
+  },
+  {
+    "UniqueName": "TitaniumIngot",
+    "DisplayName": "Titanium Ingot",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/6/61/Titanium_Ingot.png"
+  },
+  {
+    "UniqueName": "TitaniumOre",
+    "DisplayName": "Titanium Ore",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/3/34/Titanium_Ore.png"
+  },
+  {
+    "UniqueName": "VineGoo",
+    "DisplayName": "Vine Goo",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/b/be/Vine_Goo.png"
+  },
+  {
+    "UniqueName": "Wool",
+    "DisplayName": "Wool",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/3/34/Wool.png"
+  },
+  {
+    "UniqueName": "Barrel",
+    "DisplayName": "An Item",
+    "DisplayPicture": ""
+  },
+  {
+    "UniqueName": "Cassette_Classical",
+    "DisplayName": "Classical Cassette",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/1/14/Classical_Cassette.png"
+  },
+  {
+    "UniqueName": "Cassette_EDM",
+    "DisplayName": "EDM Cassette",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/f/f6/EDM_Cassette.png"
+  },
+  {
+    "UniqueName": "Cassette_Elevator",
+    "DisplayName": "Elevator Cassette",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/4/40/Elevator_Cassette.png"
+  },
+  {
+    "UniqueName": "Cassette_Pop",
+    "DisplayName": "Pop Cassette",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/2/21/Pop_Cassette.png"
+  },
+  {
+    "UniqueName": "Cassette_Rock",
+    "DisplayName": "Rock Cassette",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/7/7f/Rock_Cassette.png"
+  },
+  {
+    "UniqueName": "HealingSalve",
+    "DisplayName": "Healing Salve",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/9/9c/Healing_Salve.png"
+  },
+  {
+    "UniqueName": "HealingSalve_Good",
+    "DisplayName": "Good Healing Salve",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/6/6a/Good_Healing_Salve.png"
+  },
+  {
+    "UniqueName": "Placeable_Anchor_Stationary",
+    "DisplayName": "Stationary Anchor",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/d/db/Stationary_Anchor.png"
+  },
+  {
+    "UniqueName": "Placeable_Anchor_Throwable",
+    "DisplayName": "Throwable Anchor",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/b/bc/Throwable_Anchor.png"
+  },
+  {
+    "UniqueName": "Placeable_BatteryCharger",
+    "DisplayName": "Battery Charger",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/b/b8/Battery_Charger.png"
+  },
+  {
+    "UniqueName": "Placeable_Bed_Hammock",
+    "DisplayName": "Hammock",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/d/d3/Hammock.png"
+  },
+  {
+    "UniqueName": "Placeable_Bed_Simple",
+    "DisplayName": "Simple Bed",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/b/b1/Simple_Bed.png"
+  },
+  {
+    "UniqueName": "Placeable_BeeHive",
+    "DisplayName": "Beehive",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/3/3c/Beehive.png"
+  },
+  {
+    "UniqueName": "Placeable_BiofuelExtractor",
+    "DisplayName": "Biofuel Refiner",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/7/78/Biofuel_Refiner.png"
+  },
+  {
+    "UniqueName": "Placeable_BirdsNest",
+    "DisplayName": "Birds Nest",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/0/06/Birds_Nest.png"
+  },
+  {
+    "UniqueName": "Placeable_Brick_Wet",
+    "DisplayName": "Wet Brick",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/3/38/Wet_Brick.png"
+  },
+  {
+    "UniqueName": "Placeable_Calendar",
+    "DisplayName": "Calendar",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/1/15/Calendar.png"
+  },
+  {
+    "UniqueName": "Placeable_GlassCandle",
+    "DisplayName": "Candle Bottle",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/7/74/Candle_Bottle.png"
+  },
+  {
+    "UniqueName": "Placeable_Chair",
+    "DisplayName": "Chair",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/7/76/Chair.png"
+  },
+  {
+    "UniqueName": "Placeable_Clock",
+    "DisplayName": "Clock",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/3/35/Clock.png"
+  },
+  {
+    "UniqueName": "Placeable_CookingPot",
+    "DisplayName": "Cooking Pot",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/f/f9/Cooking_Pot.png"
+  },
+  {
+    "UniqueName": "Placeable_CookingStand_Food_One",
+    "DisplayName": "Simple Grill",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/5/59/Simple_Grill.png"
+  },
+  {
+    "UniqueName": "Placeable_CookingStand_Food_Two",
+    "DisplayName": "Advanced Grill",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/f/f0/Advanced_Grill.png"
+  },
+  {
+    "UniqueName": "Placeable_CookingStand_Purifier_One",
+    "DisplayName": "Simple Purifier",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/c/c9/Simple_Purifier.png"
+  },
+  {
+    "UniqueName": "Placeable_CookingStand_Purifier_Two",
+    "DisplayName": "Advanced Purifier",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/5/5f/Advanced_Purifier.png"
+  },
+  {
+    "UniqueName": "Placeable_CookingStand_Smelter",
+    "DisplayName": "Smelter",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/4/45/Smelter.png"
+  },
+  {
+    "UniqueName": "Placeable_Cropplot_Grass",
+    "DisplayName": "Grass Plot",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/a/a6/Grass_Plot.png"
+  },
+  {
+    "UniqueName": "Placeable_Cropplot_Large",
+    "DisplayName": "Large Crop Plot",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/a/ad/Large_Crop_Plot.png"
+  },
+  {
+    "UniqueName": "Placeable_Cropplot_Medium",
+    "DisplayName": "Medium Crop Plot",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/d/d0/Medium_Crop_Plot.png"
+  },
+  {
+    "UniqueName": "Placeable_Cropplot_Shoe",
+    "DisplayName": "Old Shoe",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/7/79/Old_Shoe.png"
+  },
+  {
+    "UniqueName": "Placeable_Cropplot_Small",
+    "DisplayName": "Small Crop Plot",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/5/59/Small_Crop_Plot.png"
+  },
+  {
+    "UniqueName": "Placeable_Electric_Purifier",
+    "DisplayName": "Electric Purifier",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/8/86/Electric_Purifier.png"
+  },
+  {
+    "UniqueName": "Placeable_Figurine_Chicken",
+    "DisplayName": "Chicken",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/1/18/Clucker.png"
+  },
+  {
+    "UniqueName": "Placeable_Figurine_Goat",
+    "DisplayName": "Goat",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/5/52/Goat.png"
+  },
+  {
+    "UniqueName": "Placeable_Figurine_Llama",
+    "DisplayName": "Llama",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/4/43/Llama.png"
+  },
+  {
+    "UniqueName": "Placeable_Firework",
+    "DisplayName": "Firework",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/2/24/Firework.png"
+  },
+  {
+    "UniqueName": "Placeable_FuelTank",
+    "DisplayName": "Biofuel Tank",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/7/70/Biofuel_Tank.png"
+  },
+  {
+    "UniqueName": "Placeable_GiantClam",
+    "DisplayName": "Giant Clam",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/a/a4/Giant_Clam.png"
+  },
+  {
+    "UniqueName": "Placeable_ItemNet",
+    "DisplayName": "Collection Net",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/b/b1/Collection_Net.png"
+  },
+  {
+    "UniqueName": "Placeable_Lantern",
+    "DisplayName": "Lantern",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/f/f5/Lantern.png"
+  },
+  {
+    "UniqueName": "Placeable_LuckyCat",
+    "DisplayName": "Lucky Cat",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/f/f1/Lucky_Cat.png"
+  },
+  {
+    "UniqueName": "Placeable_MajorTom",
+    "DisplayName": "Major Tom",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/0/06/Major_Tom.png"
+  },
+  {
+    "UniqueName": "Placeable_MotorWheel",
+    "DisplayName": "Engine",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/2/27/Engine.png"
+  },
+  {
+    "UniqueName": "Placeable_Nametag",
+    "DisplayName": "Nametag",
+    "DisplayPicture": ""
+  },
+  {
+    "UniqueName": "Placeable_Painting_André",
+    "DisplayName": "Man and Moon",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/3/39/Man_and_Moon.png"
+  },
+  {
+    "UniqueName": "Placeable_Painting_Ellen",
+    "DisplayName": "The Pot",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/4/47/The_Pot.png"
+  },
+  {
+    "UniqueName": "Placeable_Painting_Felicia",
+    "DisplayName": "After the Rain",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/b/b1/After_the_Rain.png"
+  },
+  {
+    "UniqueName": "Placeable_Painting_Gabriel",
+    "DisplayName": "Octohenge",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/9/90/Octohenge.png"
+  },
+  {
+    "UniqueName": "Placeable_Painting_Illayda",
+    "DisplayName": "Neighbors Dog",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/8/85/Neighbors_Dog.png"
+  },
+  {
+    "UniqueName": "Placeable_Painting_Petter",
+    "DisplayName": "Real Self Portrait",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/2/25/Real_Self_Portrait.png"
+  },
+  {
+    "UniqueName": "Placeable_Painting_Semih",
+    "DisplayName": "What Even Is?",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/d/d7/What_Even_Is%3F.png"
+  },
+  {
+    "UniqueName": "Placeable_Painting_Tangaroa_1",
+    "DisplayName": "Tangaroa Painting",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/d/df/Tangaroa_Painting1.png"
+  },
+  {
+    "UniqueName": "Placeable_Painting_Tangaroa_2",
+    "DisplayName": "Tangaroa Painting",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/7/7e/Tangaroa_Painting2.png"
+  },
+  {
+    "UniqueName": "Placeable_Painting_Tangaroa_3",
+    "DisplayName": "Tangaroa Painting",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/5/5a/Tangaroa_Painting3.png"
+  },
+  {
+    "UniqueName": "Placeable_Painting_Tangaroa_4",
+    "DisplayName": "Tangaroa Painting",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/4/46/Tangaroa_Painting4.png"
+  },
+  {
+    "UniqueName": "Placeable_Painting_Tangaroa_5",
+    "DisplayName": "Tangaroa Painting",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/f/f2/Tangaroa_Painting5.png"
+  },
+  {
+    "UniqueName": "Placeable_Painting_William",
+    "DisplayName": "Foul Fogs",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/5/50/Foul_Fogs.png"
+  },
+  {
+    "UniqueName": "Placeable_PaintMill",
+    "DisplayName": "Paint Mill",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/3/3b/Paint_Mill.png"
+  },
+  {
+    "UniqueName": "Placeable_Piano",
+    "DisplayName": "Piano",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/e/ea/Piano.png"
+  },
+  {
+    "UniqueName": "Placeable_Pipe_Fuel",
+    "DisplayName": "Fuel Pipe",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/c/c0/Fuel_Pipe.png"
+  },
+  {
+    "UniqueName": "Placeable_Pipe_Water",
+    "DisplayName": "Water Pipe",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/c/cf/Water_Pipe.png"
+  },
+  {
+    "UniqueName": "Placeable_Radio",
+    "DisplayName": "Radio",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/3/31/Radio.png"
+  },
+  {
+    "UniqueName": "Placeable_Reciever",
+    "DisplayName": "Reciever",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/b/bc/Receiver.png"
+  },
+  {
+    "UniqueName": "Placeable_Reciever_Antenna",
+    "DisplayName": "Antenna",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/1/13/Antenna.png"
+  },
+  {
+    "UniqueName": "Placeable_ResearchTable",
+    "DisplayName": "Research Table",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/f/f6/Research_Table.png"
+  },
+  {
+    "UniqueName": "Placeable_Rug",
+    "DisplayName": "Rug",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/f/f2/Rug.png"
+  },
+  {
+    "UniqueName": "Placeable_Sail",
+    "DisplayName": "Sail",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/9/9d/Sail.png"
+  },
+  {
+    "UniqueName": "Placeable_Scarecrow",
+    "DisplayName": "Scarecrow",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/7/75/Scarecrow.png"
+  },
+  {
+    "UniqueName": "Placeable_ScrapMechanic",
+    "DisplayName": "Scrap Mechanic Duck",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/d/de/Scrap_Mechanic_Duck.png"
+  },
+  {
+    "UniqueName": "Placeable_SharkTrophy",
+    "DisplayName": "Shark Trophy",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/7/77/Shark_Trophy.png"
+  },
+  {
+    "UniqueName": "Placeable_Shelf",
+    "DisplayName": "Shelf",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/e/ee/Shelf.png"
+  },
+  {
+    "UniqueName": "Placeable_Sign",
+    "DisplayName": "Sign",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/5/5d/Sign.png"
+  },
+  {
+    "UniqueName": "Placeable_Sprinkler",
+    "DisplayName": "Sprinkler",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/0/08/Sprinkler.png"
+  },
+  {
+    "UniqueName": "Placeable_SteeringWheel",
+    "DisplayName": "Steering Wheel",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/5/5f/Steering_Wheel.png"
+  },
+  {
+    "UniqueName": "Placeable_Storage_Large",
+    "DisplayName": "Large Storage",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/2/24/Large_Storage.png"
+  },
+  {
+    "UniqueName": "Placeable_Storage_Medium",
+    "DisplayName": "Storage",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/4/48/Storage.png"
+  },
+  {
+    "UniqueName": "Placeable_Storage_Small",
+    "DisplayName": "Small Storage",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/8/85/Small_Storage.png"
+  },
+  {
+    "UniqueName": "Placeable_Streamer",
+    "DisplayName": "Streamer",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/0/04/Streamer.png"
+  },
+  {
+    "UniqueName": "Placeable_Table",
+    "DisplayName": "Table",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/a/a5/Table.png"
+  },
+  {
+    "UniqueName": "Placeable_TangaroaPlant_1",
+    "DisplayName": "Tangaroa Plant",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/4/42/Tangaroa_Plant1.png"
+  },
+  {
+    "UniqueName": "Placeable_TangaroaPlant_2",
+    "DisplayName": "Tangaroa Plant",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/1/16/Tangaroa_Plant2.png"
+  },
+  {
+    "UniqueName": "Placeable_TangaroaPlant_3",
+    "DisplayName": "Tangaroa Plant",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/a/a0/Tangaroa_Plant3.png"
+  },
+  {
+    "UniqueName": "Placeable_TangaroaPlant_4",
+    "DisplayName": "Tangaroa Plant",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/c/c0/Tangaroa_Plant4.png"
+  },
+  {
+    "UniqueName": "Placeable_TangaroaPlant_5",
+    "DisplayName": "Tangaroa Plant",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/e/e1/Tangaroa_Plant5.png"
+  },
+  {
+    "UniqueName": "Placeable_TangaroaPlant_6",
+    "DisplayName": "Tangaroa Plant",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/8/8a/Tangaroa_Plant6.png"
+  },
+  {
+    "UniqueName": "Placeable_TikiPole_Complete",
+    "DisplayName": "Tiki Pole",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/3/36/Tiki_Pole.png"
+  },
+  {
+    "UniqueName": "Placeable_TikiPole_Feet",
+    "DisplayName": "Tiki Piece",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/1/1e/Tiki_Piece1.png"
+  },
+  {
+    "UniqueName": "Placeable_TikiPole_Mid_1",
+    "DisplayName": "Tiki Piece",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/e/e4/Tiki_Piece2.png"
+  },
+  {
+    "UniqueName": "Placeable_TikiPole_Mid_2",
+    "DisplayName": "Tiki Piece",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/e/e4/Tiki_Piece2.png"
+  },
+  {
+    "UniqueName": "Placeable_TikiPole_Top",
+    "DisplayName": "Tiki Piece",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/1/1e/Tiki_Piece1.png"
+  },
+  {
+    "UniqueName": "Placeable_ToyRobot",
+    "DisplayName": "Toy Robot",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/6/6a/Toy_Robot.png"
+  },
+  {
+    "UniqueName": "Placeable_ToyRobot_Golden",
+    "DisplayName": "Golden Toy Robot",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/d/d6/Golden_Toy_Robot.png"
+  },
+  {
+    "UniqueName": "Placeable_TrophyBoard_Large",
+    "DisplayName": "Large Trophy Board",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/d/d4/Large_Trophy_Board.png"
+  },
+  {
+    "UniqueName": "Placeable_TrophyBoard_Medium",
+    "DisplayName": "Medium Trophy Board",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/8/89/Medium_Trophy_Board.png"
+  },
+  {
+    "UniqueName": "Placeable_TrophyBoard_Small",
+    "DisplayName": "Small Trophy Board",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/6/69/Small_Trophy_Board.png"
+  },
+  {
+    "UniqueName": "Placeable_WaterTank",
+    "DisplayName": "Water Tank",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/a/ad/Water_Tank.png"
+  },
+  {
+    "UniqueName": "Placeable_ZiplineBase",
+    "DisplayName": "Zipline",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/f/f9/Zipline.png"
+  },
+  {
+    "UniqueName": "Placeable_Recipe_CatfishDeluxe",
+    "DisplayName": "Recipe: Catfish Deluxe",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/7/7d/Recipe_Catfish_Deluxe.png"
+  },
+  {
+    "UniqueName": "Placeable_Recipe_CoconutChicken",
+    "DisplayName": "Recipe: Coconut Chicken",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/b/bc/Recipe_Coconut_Chicken.png"
+  },
+  {
+    "UniqueName": "Placeable_Recipe_DrumstickWithJam",
+    "DisplayName": "Recipe: Drumstick with Jam",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/1/1c/Recipe_Drumstick_with_Jam.png"
+  },
+  {
+    "UniqueName": "Placeable_Recipe_FishStew",
+    "DisplayName": "Recipe: Fish Stew",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/5/57/Recipe_Fish_Stew.png"
+  },
+  {
+    "UniqueName": "Placeable_Recipe_FruitCompot",
+    "DisplayName": "Recipe: Fruit Compot",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/e/e7/Recipe_Fruit_Compot.png"
+  },
+  {
+    "UniqueName": "Placeable_Recipe_HeadBroth",
+    "DisplayName": "Recipe: Head Broth",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/3/3b/Recipe_Head_Broth.png"
+  },
+  {
+    "UniqueName": "Placeable_Recipe_MushroomOmelette",
+    "DisplayName": "Recipe: Mushroom Omelette",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/b/b2/Recipe_Mushroom_Omelette.png"
+  },
+  {
+    "UniqueName": "Placeable_Recipe_SalmonSalad",
+    "DisplayName": "Recipe: Salmon Salad",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/c/c8/Recipe_Salmon_Salad.png"
+  },
+  {
+    "UniqueName": "Placeable_Recipe_SharkDinner",
+    "DisplayName": "Recipe: Shark Dinner",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/3/37/Recipe_Shark_Dinner.png"
+  },
+  {
+    "UniqueName": "Placeable_Recipe_SimpleFishStew",
+    "DisplayName": "Recipe: Simple Fish Stew",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/0/0a/Recipe_Simple_Fish_Stew.png"
+  },
+  {
+    "UniqueName": "Placeable_Recipe_VegetableSoup",
+    "DisplayName": "Recipe: Vegetable Soup",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/4/4b/Recipe_Vegetable_Soup.png"
+  },
+  {
+    "UniqueName": "Seed_Banana",
+    "DisplayName": "Banana Seed",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/0/0d/Banana_Seed.png"
+  },
+  {
+    "UniqueName": "Seed_Birch",
+    "DisplayName": "Birch Seed",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/c/c1/Birch_Seed.png"
+  },
+  {
+    "UniqueName": "Seed_Flower_Black",
+    "DisplayName": "Black Seed",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/2/24/Black_Seed.png"
+  },
+  {
+    "UniqueName": "Seed_Flower_Blue",
+    "DisplayName": "Blue Seed",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/2/2a/Blue_Seed.png"
+  },
+  {
+    "UniqueName": "Seed_Flower_Red",
+    "DisplayName": "Red Seed",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/1/1f/Red_Seed.png"
+  },
+  {
+    "UniqueName": "Seed_Flower_White",
+    "DisplayName": "Yellow Seed",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/7/7b/Yellow_Seed.png"
+  },
+  {
+    "UniqueName": "Seed_Flower_Yellow",
+    "DisplayName": "White Seed",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/f/fd/White_Seed.png"
+  },
+  {
+    "UniqueName": "Seed_Grass",
+    "DisplayName": "An Item",
+    "DisplayPicture": ""
+  },
+  {
+    "UniqueName": "Seed_Mango",
+    "DisplayName": "Mango Seed",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/7/7e/Mango_Seed.png"
+  },
+  {
+    "UniqueName": "Seed_Palm",
+    "DisplayName": "Palm Seed",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/3/3c/Palm_Seed.png"
+  },
+  {
+    "UniqueName": "Seed_Pine",
+    "DisplayName": "Pinecone",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/a/a7/Pinecone.png"
+  },
+  {
+    "UniqueName": "Seed_Pineapple",
+    "DisplayName": "Pineapple Seed",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/d/df/Pineapple_Seed.png"
+  },
+  {
+    "UniqueName": "Seed_Strawberry",
+    "DisplayName": "Strawberry Seed",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/8/88/Strawberry_Seed.png"
+  },
+  {
+    "UniqueName": "Seed_Watermelon",
+    "DisplayName": "Watermelon Seed",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/6/65/Watermelon_Seed.png"
+  },
+  {
+    "UniqueName": "Arrow_Metal",
+    "DisplayName": "Metal Arrow",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/1/12/Metal_Arrow.png"
+  },
+  {
+    "UniqueName": "Arrow_Stone",
+    "DisplayName": "Stone Arrow",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/2/28/Stone_Arrow.png"
+  },
+  {
+    "UniqueName": "Axe",
+    "DisplayName": "Metal Axe",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/3/33/Metal_Axe.png"
+  },
+  {
+    "UniqueName": "Axe_Stone",
+    "DisplayName": "Stone Axe",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/2/2f/Stone_Axe.png"
+  },
+  {
+    "UniqueName": "Binoculars",
+    "DisplayName": "Binoculars",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/7/74/Binoculars.png"
+  },
+  {
+    "UniqueName": "Bow",
+    "DisplayName": "Basic Bow",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/c/c8/Basic_Bow.png"
+  },
+  {
+    "UniqueName": "Bucket",
+    "DisplayName": "Bucket",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/5/52/Bucket.png"
+  },
+  {
+    "UniqueName": "DevSpear",
+    "DisplayName": "OP Weapon",
+    "DisplayPicture": ""
+  },
+  {
+    "UniqueName": "FishingRod",
+    "DisplayName": "Fishing Rod",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/7/7d/Wooden_Fishing_Rod.png"
+  },
+  {
+    "UniqueName": "FishingRod_Metal",
+    "DisplayName": "Metal Fishing Rod",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/d/de/Metal_Fishing_Rod.png"
+  },
+  {
+    "UniqueName": "Hammer",
+    "DisplayName": "Building Hammer",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/0/04/Building_Hammer.png"
+  },
+  {
+    "UniqueName": "Hook_Plastic",
+    "DisplayName": "Plastic Hook",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/4/46/Plastic_Hook.png"
+  },
+  {
+    "UniqueName": "Hook_Scrap",
+    "DisplayName": "Scrap Hook",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/d/dd/Scrap_Hook.png"
+  },
+  {
+    "UniqueName": "Machete",
+    "DisplayName": "Machete",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/0/0c/Machete.png"
+  },
+  {
+    "UniqueName": "MetalDetector",
+    "DisplayName": "Metal Detector",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/3/35/Metal_Detector.png"
+  },
+  {
+    "UniqueName": "NetCanister",
+    "DisplayName": "Net Canister",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/6/6d/Net_Canister.png"
+  },
+  {
+    "UniqueName": "NetGun",
+    "DisplayName": "Net Launcher",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/0/08/Net_Launcher.png"
+  },
+  {
+    "UniqueName": "Paddle",
+    "DisplayName": "Paddle",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/7/7c/Paddle.png"
+  },
+  {
+    "UniqueName": "PaintBrush",
+    "DisplayName": "Paint Brush",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/e/ea/Paint_Brush.png"
+  },
+  {
+    "UniqueName": "SharkBait",
+    "DisplayName": "Shark Bait",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/f/fa/Shark_Bait.png"
+  },
+  {
+    "UniqueName": "Shear",
+    "DisplayName": "Shear",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/a/a2/Shear.png"
+  },
+  {
+    "UniqueName": "Shovel",
+    "DisplayName": "Shovel",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/7/77/Shovel.png"
+  },
+  {
+    "UniqueName": "Spear_Scrap",
+    "DisplayName": "Metal Spear",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/5/53/Metal_Spear.png"
+  },
+  {
+    "UniqueName": "Spear_Plank",
+    "DisplayName": "Wooden Spear",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/1/17/Wooden_Spear.png"
+  },
+  {
+    "UniqueName": "SweepNet",
+    "DisplayName": "Sweep Net",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/d/d0/Sweep_Net.png"
+  },
+  {
+    "UniqueName": "ZiplineTool",
+    "DisplayName": "Zipline Tool",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/c/cc/Zipline_Tool.png"
+  },
+  {
+    "UniqueName": "Blueprint_Antenna",
+    "DisplayName": "Blueprint: Antenna",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/9/98/Blueprint.png"
+  },
+  {
+    "UniqueName": "Blueprint_BatteryCharger",
+    "DisplayName": "Blueprint: Battery Charger",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/9/98/Blueprint.png"
+  },
+  {
+    "UniqueName": "Blueprint_BiofuelExtractor",
+    "DisplayName": "Blueprint: Biofuel Refiner",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/9/98/Blueprint.png"
+  },
+  {
+    "UniqueName": "Blueprint_ElectricPurifier",
+    "DisplayName": "Blueprint: Electric Purifier",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/9/98/Blueprint.png"
+  },
+  {
+    "UniqueName": "Blueprint_Firework",
+    "DisplayName": "Blueprint: Firework",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/9/98/Blueprint.png"
+  },
+  {
+    "UniqueName": "Blueprint_Fueltank",
+    "DisplayName": "Blueprint: Fuel Tank",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/9/98/Blueprint.png"
+  },
+  {
+    "UniqueName": "Blueprint_HeadLight",
+    "DisplayName": "Blueprint: Head Light",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/9/98/Blueprint.png"
+  },
+  {
+    "UniqueName": "Blueprint_Machete",
+    "DisplayName": "Blueprint: Machete",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/9/98/Blueprint.png"
+  },
+  {
+    "UniqueName": "Blueprint_MetalDetector",
+    "DisplayName": "Blueprint: Metal Detector",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/9/98/Blueprint.png"
+  },
+  {
+    "UniqueName": "Blueprint_MotorWheel",
+    "DisplayName": "Blueprint: Engine",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/9/98/Blueprint.png"
+  },
+  {
+    "UniqueName": "Blueprint_Pipe_Fuel",
+    "DisplayName": "Blueprint: Fuel Pipe",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/9/98/Blueprint.png"
+  },
+  {
+    "UniqueName": "Blueprint_Pipe_Water",
+    "DisplayName": "Blueprint: Water Pipe",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/9/98/Blueprint.png"
+  },
+  {
+    "UniqueName": "Blueprint_Reciever",
+    "DisplayName": "Blueprint: Receiver",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/9/98/Blueprint.png"
+  },
+  {
+    "UniqueName": "Blueprint_SteeringWheel",
+    "DisplayName": "Blueprint: Steering Wheel",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/9/98/Blueprint.png"
+  },
+  {
+    "UniqueName": "Blueprint_Storage_Large",
+    "DisplayName": "Blueprint: Large Storage",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/9/98/Blueprint.png"
+  },
+  {
+    "UniqueName": "Blueprint_WaterTank",
+    "DisplayName": "Blueprint: Water Tank",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/9/98/Blueprint.png"
+  },
+  {
+    "UniqueName": "Blueprint_ZiplineBase",
+    "DisplayName": "Blueprint: Zipline",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/9/98/Blueprint.png"
+  },
+  {
+    "UniqueName": "Blueprint_ZiplineTool",
+    "DisplayName": "Blueprint: Zipline Tool",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/9/98/Blueprint.png"
+  },
+  {
+    "UniqueName": "Block_Floor_Triangular_Wood",
+    "DisplayName": "Triangle Wooden Floor",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/8/81/Triangle_Wooden_Floor.png"
+  },
+  {
+    "UniqueName": "Block_Floor_Wood",
+    "DisplayName": "Wooden Floor",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/0/0d/Wooden_Floor.png"
+  },
+  {
+    "UniqueName": "Block_Foundation_Triangular_Wood",
+    "DisplayName": "Triangle Foundation",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/e/ed/Triangle_Foundation.png"
+  },
+  {
+    "UniqueName": "Block_Foundation",
+    "DisplayName": "Foundation",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/3/3b/Foundation.png"
+  },
+  {
+    "UniqueName": "Block_FoundationArmor",
+    "DisplayName": "Foundation Armor",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/3/3d/Foundation_Armor.png"
+  },
+  {
+    "UniqueName": "Block_HalfFloor_Triangular_Wood",
+    "DisplayName": "Triangle Raised Floor",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/b/bc/Triangle_Raised_Floor.png"
+  },
+  {
+    "UniqueName": "Block_HalfFloor_Wood",
+    "DisplayName": "Raised Floor",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/9/93/Raised_Floor.png"
+  },
+  {
+    "UniqueName": "Block_Ladder",
+    "DisplayName": "Ladder",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/6/63/Ladder.png"
+  },
+  {
+    "UniqueName": "Block_Pillar_Wood",
+    "DisplayName": "Wooden Pillar",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/3/39/Wooden_Pillar.png"
+  },
+  {
+    "UniqueName": "Block_HalfPillar_Wood",
+    "DisplayName": "Half Wooden Pillar",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/0/0b/Half_Wooden_Pillar.png"
+  },
+  {
+    "UniqueName": "Block_Roof_Corner_Thatch",
+    "DisplayName": "Thatch Roof Corner",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/f/f1/Thatch_Roof_Corner.png"
+  },
+  {
+    "UniqueName": "Block_Roof_InvCorner_Thatch",
+    "DisplayName": "Inverted Thatch Roof Corner",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/0/0c/Inverted_Thatch_Roof_Corner.png"
+  },
+  {
+    "UniqueName": "Block_Roof_Straight_Thatch",
+    "DisplayName": "Thatch Roof",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/d/da/Thatch_Roof.png"
+  },
+  {
+    "UniqueName": "Block_Roof_Corner_Wood",
+    "DisplayName": "Wood Roof Corner",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/f/fa/Wood_Roof_Corner.png"
+  },
+  {
+    "UniqueName": "Block_Roof_Wood_Corner_Triangular",
+    "DisplayName": "An Item",
+    "DisplayPicture": ""
+  },
+  {
+    "UniqueName": "Block_Roof_InvCorner_Wood",
+    "DisplayName": "Inverted Wood Roof Corner",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/5/5e/Inverted_Wood_Roof_Corner.png"
+  },
+  {
+    "UniqueName": "Block_Roof_Straight_Wood",
+    "DisplayName": "Wood Roof",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/2/25/Wood_Roof.png"
+  },
+  {
+    "UniqueName": "Block_Stair",
+    "DisplayName": "Stair",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/1/1f/Stair.png"
+  },
+  {
+    "UniqueName": "Block_HalfStair",
+    "DisplayName": "Half Stair",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/4/43/Half_Stair.png"
+  },
+  {
+    "UniqueName": "Block_Wall_Door_Thatch",
+    "DisplayName": "Thatch Door",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/6/6d/Thatch_Door.png"
+  },
+  {
+    "UniqueName": "Block_Wall_Door_Wood",
+    "DisplayName": "Wooden Door",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/2/2c/Wooden_Door.png"
+  },
+  {
+    "UniqueName": "Block_Wall_Fence_Plank",
+    "DisplayName": "Half Wooden Wall",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/d/d8/Half_Wooden_Wall.png"
+  },
+  {
+    "UniqueName": "Block_Wall_Fence_Rope",
+    "DisplayName": "Rope Fence",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/3/3f/Rope_Fence.png"
+  },
+  {
+    "UniqueName": "Block_Wall_Gate_Thatch",
+    "DisplayName": "Thatch Gate",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/0/0c/Thatch_Gate.png"
+  },
+  {
+    "UniqueName": "Block_Wall_Gate_Wood",
+    "DisplayName": "Wooden Gate",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/c/ca/Wooden_Gate.png"
+  },
+  {
+    "UniqueName": "Block_Wall_Slope_Thatch",
+    "DisplayName": "Triangular Thatch Wall",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/6/65/Triangular_Thatch_Wall.png"
+  },
+  {
+    "UniqueName": "Block_Wall_Slope_Wood",
+    "DisplayName": "Triangular Wood Wall",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/1/1a/Triangular_Wood_Wall.png"
+  },
+  {
+    "UniqueName": "Block_Wall_Thatch",
+    "DisplayName": "Thatch Wall",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/b/bd/Thatch_Wall.png"
+  },
+  {
+    "UniqueName": "Block_HalfWall_Thatch",
+    "DisplayName": "Half Thatch Wall",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/6/62/Half_Thatch_Wall.png"
+  },
+  {
+    "UniqueName": "Block_Wall_Window_Thatch",
+    "DisplayName": "Thatch Window",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/f/f2/Thatch_Window.png"
+  },
+  {
+    "UniqueName": "Block_Wall_Window_Wood",
+    "DisplayName": "Wooden Window",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/c/ca/Wooden_Window.png"
+  },
+  {
+    "UniqueName": "Block_Wall_Wood",
+    "DisplayName": "Wooden Wall",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/0/08/Wooden_Wall.png"
+  },
+  {
+    "UniqueName": "Block_HalfWall_Wood",
+    "DisplayName": "Half Wooden Wall",
+    "DisplayPicture": "https://static.wikia.nocookie.net/raft_gamepedia_en/images/d/d8/Half_Wooden_Wall.png"
+  },
+  {
+    "UniqueName": "Repair",
+    "DisplayName": "Repair",
+    "DisplayPicture": ""
+  },
+  {
+    "UniqueName": "Placeable",
+    "DisplayName": "An Item",
+    "DisplayPicture": ""
+  },
+  {
+    "UniqueName": "Placeable_Recipe",
+    "DisplayName": "An Item",
+    "DisplayPicture": ""
+  },
+  {
+    "UniqueName": "DropItem",
+    "DisplayName": "An Item",
+    "DisplayPicture": ""
+  },
+  {
+    "UniqueName": "BeachBall",
+    "DisplayName": "Beach Ball",
+    "DisplayPicture": ""
+  },
+  {
+    "UniqueName": "ThrowableAnchor",
+    "DisplayName": "An Item (Bugged AF don't use)",
+    "DisplayPicture": ""
+  }
+]
